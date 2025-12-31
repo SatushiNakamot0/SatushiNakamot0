@@ -19,10 +19,10 @@
 I'm an engineering student at **ENSA Al Hoceima**, specializing in **Data Engineering**, with a strong theoretical foundation from **CPGE MP** (Mathématiques & Physique). I'm passionate about building efficient, scalable AI systems that solve real-world problems.
 
 **Current Focus:**
-- 🤖 Neural network compression & optimization for embedded systems
-- 🌌 Building **GazerStar** — a next-gen AI agent orchestration platform
-- 📊 Scalable data engineering & system design
-- 🧪 Research in model pruning & edge AI
+-  Neural network compression & optimization for embedded systems
+-  Building **GazerStar** — a next-gen AI agent orchestration platform
+-  Scalable data engineering & system design
+-  Research in model pruning & edge AI
 
 **Long-term Vision:**  
 Become a top-tier AI engineer and researcher, contributing to efficient, impactful, and intelligent systems at scale.
@@ -117,7 +117,7 @@ Become a top-tier AI engineer and researcher, contributing to efficient, impactf
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=css,html,blade"/>
 
 </div>
 
