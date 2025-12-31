@@ -117,8 +117,11 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://i.imgur.com/3FjDqOf.gif" alt="Straw Hat Crew" width="600"/>
+</p>
 
-<sub>**"In theory, theory and practice are the same. In practice, they are not."** — Yogi Berra</sub>
-
-</div>
+<p align="center">
+  <sub><i>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!"</i></sub><br>
+  <sub>— Monkey D. Luffy</sub>
+</p>
