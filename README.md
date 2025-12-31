@@ -117,11 +117,10 @@
 
 ---
 
+<br />
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlzZGJ6cXZ5emJjZDZwNXo0YzFsMmF6dGdzbnkxZHNkZXg4cTBvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10LKovKon8DENq/giphy.gif" alt="One Piece" width="400"/>
+  <img src="https://media.giphy.com/media/U77FFxiyXQlBg/giphy.gif" alt="Straw Hats Running" width="100%" />
 </p>
-
 <p align="center">
-  <sub><i>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!"</i></sub><br>
-  <sub>— Monkey D. Luffy</sub>
+    <i><sub>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!" — Monkey D. Luffy</sub></i>
 </p>
