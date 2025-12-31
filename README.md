@@ -119,7 +119,7 @@
 
 <br />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53056502/115128659-0524cb80-9fcd-11eb-8d07-73d7796d8e8b.gif" alt="Straw Hats Running" width="100%" />
+  <img src="gear5.gif" alt="Luffy Gear 5" width="100%" />
 </p>
 <p align="center">
     <i><sub>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!" — Monkey D. Luffy</sub></i>
