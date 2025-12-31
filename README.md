@@ -99,15 +99,20 @@
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatushiNakamot0&theme=github_dark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatushiNakamot0&theme=github_dark&utcOffset=1" alt="Productive Time" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&hide=css,html,blade" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatushiNakamot0&theme=github_dark" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatushiNakamot0&theme=github_dark" alt="Most Commit Language" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SatushiNakamot0/SatushiNakamot0/actions/workflows/snake.yml">
+    <img src="https://github.com/SatushiNakamot0/SatushiNakamot0/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  </a>
 </p>
 
 ---
