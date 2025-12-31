@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="gear5.gif" alt="Luffy Gear 5" width="200px" />
+
 # Yazid TAHIRI ALAOUI
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Engineer;Data+Scientist;System+Architect;Neural+Network+Researcher)](https://git.io/typing-svg)
@@ -117,10 +119,6 @@
 
 ---
 
-<br />
-<p align="center">
-  <img src="gear5.gif" alt="Luffy Gear 5" width="25%" />
-</p>
 <p align="center">
     <i><sub>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!" — Monkey D. Luffy</sub></i>
 </p>
