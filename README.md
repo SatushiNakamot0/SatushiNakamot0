@@ -3,7 +3,7 @@
 Data Engineering student at ENSA Al Hoceima with a background in CPGE MP (Mathématiques & Physique). I focus on building efficient AI systems and researching neural network optimization for deployment on resource-constrained devices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazid-tahiri-alaoui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yazid.tahirialaoui@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yazidalaoui12345@gmail.com)
 
 ---
 
@@ -56,6 +56,6 @@ Software engineering project with complete UML design (use case, sequence, class
 
 ## Contact
 
-**Email:** yazid.tahirialaoui@gmail.com  
+**Email:** yazidalaoui12345@gmail.com  
 **LinkedIn:** [Yazid TAHIRI ALAOUI](https://linkedin.com/in/yazid-tahiri-alaoui)  
 **Website:** [ethnicguesser.com](https://ethnicguesser.com)
