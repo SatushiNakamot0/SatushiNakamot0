@@ -101,10 +101,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" width="100%" alt="Profile Summary"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,blade,javascript" height="180"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,blade,javascript" height="170" alt="Top Languages"/>
 
 </div>
 
