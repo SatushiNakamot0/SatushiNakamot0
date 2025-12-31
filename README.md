@@ -45,11 +45,16 @@ Software engineering project with complete UML design (use case, sequence, class
 
 ---
 
+
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=css,html,blade)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=css,html,blade" alt="Top Languages" />
+</p>
 
 ---
 
