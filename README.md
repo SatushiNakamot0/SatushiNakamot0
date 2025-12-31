@@ -9,7 +9,7 @@ Data Engineering student at ENSA Al Hoceima with a background in CPGE MP (Mathé
 
 ## About
 
-I'm currently working on neural network compression techniques for embedded systems as part of my TIPE research, while developing GazerStar, an AI agent orchestration platform. My academic background in CPGE gave me strong foundations in mathematics and algorithmic problem-solving, which I apply to practical AI engineering challenges.
+I'm currently working on neural network compression techniques for embedded systems as part of my research, while developing GazerStar, an AI agent orchestration platform. My academic background in CPGE gave me strong foundations in mathematics and algorithmic problem-solving, which I apply to practical AI engineering challenges.
 
 **Research Interests:** Model compression, edge AI, neural network pruning, hardware-aware optimization
 
