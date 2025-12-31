@@ -49,11 +49,12 @@ Software engineering project with complete UML design (use case, sequence, class
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatushiNakamot0&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatushiNakamot0&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatushiNakamot0&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 ---
