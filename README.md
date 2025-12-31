@@ -118,7 +118,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/3FjDqOf.gif" alt="Straw Hat Crew" width="600"/>
+  <img src="https://media1.tenor.com/m/3rgN75JsNOoAAAAC/one-piece-luffy.gif" alt="One Piece" width="600"/>
 </p>
 
 <p align="center">
