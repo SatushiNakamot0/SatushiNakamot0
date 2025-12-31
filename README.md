@@ -118,7 +118,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/3rgN75JsNOoAAAAC/one-piece-luffy.gif" alt="One Piece" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlzZGJ6cXZ5emJjZDZwNXo0YzFsMmF6dGdzbnkxZHNkZXg4cTBvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10LKovKon8DENq/giphy.gif" alt="One Piece" width="400"/>
 </p>
 
 <p align="center">
