@@ -101,14 +101,14 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" width="100%" alt="Profile Summary"/>
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&hide=css,html,blade)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatushiNakamot0&theme=github_dark" width="100%"/>
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&hide=css,html,blade" height="165" />
+</p>
 
 ---
 
