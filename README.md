@@ -1,22 +1,14 @@
 <div align="center">
-  <img src="header.png" alt="Yazid TAHIRI ALAOUI" width="100%" style="max-height: 200px; object-fit: cover;">
+  <h1>Yazid TAHIRI ALAOUI</h1>
+  <p><strong>Data Engineering @ ENSA Al Hoceima • AI Researcher • Ex-CPGE MP</strong></p>
+  <p>Building efficient AI systems and researching neural network optimization for embedded devices</p>
+  
+  <p>
+    <a href="https://linkedin.com/in/yazid-tahiri-alaoui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:yazidalaoui12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://ethnicguesser.com"><img src="https://img.shields.io/badge/Website-00C7B7?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
+  </p>
 </div>
-
-<br>
-
-<p align="center">
-  <strong>Data Engineering @ ENSA Al Hoceima • AI Researcher • Ex-CPGE MP</strong>
-</p>
-
-<p align="center">
-  Building efficient AI systems and researching neural network optimization for embedded devices
-</p>
-
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazid-tahiri-alaoui)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yazidalaoui12345@gmail.com)
-  [![Website](https://img.shields.io/badge/Website-00C7B7?style=flat&logo=google-chrome&logoColor=white)](https://ethnicguesser.com)
-</p>
 
 ---
 
