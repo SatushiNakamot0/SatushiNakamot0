@@ -105,8 +105,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,blade,javascript" height="170" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=dark&hide_border=true&hide=css,html,blade)
 
 </div>
 
