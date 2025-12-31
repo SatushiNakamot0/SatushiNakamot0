@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Yazid TAHIRI ALAOUI" width="100%">
+  <img src="header.png" alt="Yazid TAHIRI ALAOUI" width="100%" style="max-height: 200px; object-fit: cover;">
 </div>
 
 <br>
