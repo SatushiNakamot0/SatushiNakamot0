@@ -119,8 +119,6 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SatushiNakamot0/SatushiNakamot0/output/github-contribution-grid-snake-dark.svg)
-
 <sub>**"In theory, theory and practice are the same. In practice, they are not."** — Yogi Berra</sub>
 
 </div>
