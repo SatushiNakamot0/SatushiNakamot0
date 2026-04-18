@@ -106,13 +106,13 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatushiNakamot0&theme=github_dark" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatushiNakamot0&theme=github_dark&utcOffset=1" alt="Productive Time" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatushiNakamot0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatushiNakamot0&theme=github-dark-blue&hide_border=true" alt="Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatushiNakamot0&theme=github_dark" alt="Repos per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatushiNakamot0&theme=github_dark" alt="Most Commit Language" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatushiNakamot0&theme=github_dark&utcOffset=1" alt="Productive Time" width="48%" />
 </p>
 
 <p align="center">
