@@ -107,7 +107,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatushiNakamot0&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatushiNakamot0&theme=github_dark&utcOffset=1" alt="Productive Time" width="48%" />
+  <img src="profile-summary-card-output/github_dark/3-productive-time.svg" alt="Productive Time" width="48%" />
 </p>
 
 <p align="center">
