@@ -17,45 +17,40 @@
 ## Projects
 
 <table>
-<thead>
-<tr>
-<th width="300">Project</th>
-<th width="500">Description</th>
-<th width="200">Stack</th>
-<th width="100">Status</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td><a href="https://github.com/GazerStar-Agent/gazerstar"><b>GazerStar</b></a></td>
-<td>Visual orchestration platform for autonomous AI agents. Agents as stars, workflows as constellations.</td>
-<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"></td>
-<td>🚧 Active</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/SatushiNakamot0/TIPE-Optimization-Reseaux-Neurones"><b>Neural Network Pruning</b></a></td>
-<td>TIPE research on structured/unstructured pruning for embedded systems (ESP32). Performance-accuracy trade-offs.</td>
-<td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"></td>
-<td>📚 Research</td>
-</tr>
-
-<tr>
-<td><a href="https://ethnicguesser.com"><b>EthnicGuesser</b></a></td>
-<td>Probabilistic name-origin prediction using data-driven classification. Production web application.</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
-<td>✅ Live</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/SatushiNakamot0/SmartSport"><b>SmartSport</b></a></td>
-<td>Multi-role system architecture with complete UML modeling (Use Case, Sequence, Class diagrams).</td>
-<td><img src="https://img.shields.io/badge/UML-FF6C37?style=flat&logo=uml&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
-<td>✅ Complete</td>
-</tr>
-
-</tbody>
+  <thead>
+    <tr>
+      <th width="300">Project</th>
+      <th width="500">Description</th>
+      <th width="200">Stack</th>
+      <th width="100">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/GazerStar-Agent/gazerstar"><b>GazerStar</b></a></td>
+      <td>Visual orchestration platform for autonomous AI agents. Agents as stars, workflows as constellations.</td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"></td>
+      <td>🚧 Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SatushiNakamot0/TIPE-Optimization-Reseaux-Neurones"><b>Neural Network Pruning</b></a></td>
+      <td>TIPE research on structured/unstructured pruning for embedded systems (ESP32). Performance-accuracy trade-offs.</td>
+      <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"></td>
+      <td>📚 Research</td>
+    </tr>
+    <tr>
+      <td><a href="https://ethnicguesser.com"><b>EthnicGuesser</b></a></td>
+      <td>Probabilistic name-origin prediction using data-driven classification. Production web application.</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
+      <td>✅ Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SatushiNakamot0/SmartSport"><b>SmartSport</b></a></td>
+      <td>Multi-role system architecture with complete UML modeling (Use Case, Sequence, Class diagrams).</td>
+      <td><img src="https://img.shields.io/badge/UML-FF6C37?style=flat&logo=uml&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
+      <td>✅ Complete</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
